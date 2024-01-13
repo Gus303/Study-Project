@@ -1,2 +1,2 @@
 # ReactTest
-My first project in react
+My first project in react and JavaScript
