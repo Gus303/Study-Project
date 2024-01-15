@@ -1,0 +1,9 @@
+body{
+    background-color: darkslategrey;
+}
+.P1 h1{
+    display: flex;
+    position: flex-center;    
+    justify-content: center;
+}
+
