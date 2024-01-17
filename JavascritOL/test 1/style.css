@@ -6,4 +6,8 @@ body{
     position: flex-center;    
     justify-content: center;
 }
-
+.P1 p{
+    display: flex;
+    position: flex-center;    
+    justify-content: center;
+}
