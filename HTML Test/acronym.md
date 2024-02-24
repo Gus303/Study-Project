@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Acronyms(Siglas)</h1>
   
-<p>HTML: </p>
+<b>HTML: </b>
   <p>Hypertext Markup Language(Linguagem de Marcação de Hipertexto)</p>
-<p>CSS: </p>
+<b>CSS: </b>
   <p>Cascading Style Sheets(Folhas de estilo em cascata)</p>
-<p>WWW: </p>
+<b>WWW: </b>
   <p>World Wide Weeb(Teia do Tamanho do mundo)</p>
-<p>HTTP & HTTPS:</p>
+<b>HTTP & HTTPS:</b>
   <p>HyperText Transfer Protocol(Protocolo de Transferência de Hipertexto) & Hyper Text Transfer Protocol Secure(Protocolo de Transferência de Hipertexto Seguro)</p>
 </div>
