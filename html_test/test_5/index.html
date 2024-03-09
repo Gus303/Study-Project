@@ -7,6 +7,15 @@
     <title>Test 5</title>
 </head>
 <body>
-    
+    <h1>Dinamic images</h1>
+    <p>Change the size of the scream</p>
+    <!-- tag picture can used to make settings in tags like img, you will see -->
+    <picture>
+        <source media="(max-width: 750px)" srcset="/images/foto-s.png" type="image/png">
+        <!-- we use more 50 px because of the scroll of the site -->
+        <source media="(max-width: 1050px)" srcset="/images/foto-m.png" type="image/png">
+        <img src="/images/foto-b.png" alt="image">
+        <!-- and you need to follow this order (from de smaller to bigger) -->
+    </picture>
 </body>
 </html>
