@@ -9,4 +9,7 @@
   <p>World Wide Weeb(Teia do Tamanho do mundo)</p>
 <b>HTTP & HTTPS:</b>
   <p>HyperText Transfer Protocol(Protocolo de Transferência de Hipertexto) & Hyper Text Transfer Protocol Secure(Protocolo de Transferência de Hipertexto Seguro)</p>
+<b>ABNT</b>
+<p>Associação Brasileira de Normas Técnicas (Brazilian Association of Standards and Techniques)<p>
+
 </div>
