@@ -1,0 +1,8 @@
+/* this * is the universal config */
+*{
+height: 100%;
+}
+body{
+    background-image: linear-gradient(to top,#0A4273,#38D0F2);
+    background-attachment: fixed;
+}
