@@ -1,5 +1,6 @@
-/* this * is the universal config */
-*{
+@charset "UTF-8";
+/* @ means rule and this rule is used to avoid problems with letter */
+*{ /* this * is the universal config */
 height: 100%;
 }
 body{

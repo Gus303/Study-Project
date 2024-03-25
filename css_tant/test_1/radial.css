@@ -1,3 +1,5 @@
+@charset "UTF-8";
+/* @ means rule and this rule is used to avoid problems with letter */
 *{
     height: 100%;
 }
