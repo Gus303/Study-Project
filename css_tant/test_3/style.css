@@ -16,3 +16,11 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     /*  this font family is to fonts without serif + works in all divices  */
 }
+h3{
+    /* shorthand font:
+
+    -font-style;font-weight;font-size;font-family
+    
+*/
+font: italic bolder 3em "sans-serif";
+}
