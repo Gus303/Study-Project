@@ -1,0 +1,30 @@
+@charset "UTF-8";
+h1{
+    font-size: 2.5em;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 25px 50px 25px 50px;
+    border-radius: 25px;
+}
+div{
+    display: inline-block;
+    /* we use that to make the things follow a line in format of a block */
+    background-color: grey;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+div:hover
+/* this subclass is for when you pass your pointer into this div, it make something */
+{
+background-color: rgb(111, 142, 143);
+border: 2px solid rgb(0, 35, 63);
+}
+div > p{
+    display: none;
+}
+div:hover > p{
+    display: block;
+
+}
