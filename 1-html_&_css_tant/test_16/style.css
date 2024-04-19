@@ -1,8 +1,27 @@
 @charset "UTF-8";
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 h1{
-    background-color: lightgrey;
+    display: inline-block;
+    background-color: lightgreen;
     height: 200px;
     width: 400px;
     border: 15px groove rgb(14, 75, 72);   
     padding: 50px; 
+}
+h2{
+    display: inline-block;
+    background-color: lightblue;
+    height: 200px;
+    width: 400px;
+    border: 10px solid rgb(0, 11, 170);
+    padding: 25px;
+    outline: 10px solid rgb(0, 5, 75);
+    margin-left: 20px;
+}
+p{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 2em;
 }
