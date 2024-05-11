@@ -3,25 +3,41 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-    display: inline-block;
+    text-align: center;
+
     background-color: lightgreen;
+
     height: 200px;
     width: 400px;
+
     border: 15px groove rgb(14, 75, 72);   
+
     padding: 50px; 
+
+    margin: auto;
 }
 h2{
-    display: inline-block;
+    text-align: center;
+
     background-color: lightblue;
+
     height: 200px;
     width: 400px;
+
     border: 10px solid rgb(0, 11, 170);
+
     padding: 25px;
+
     outline: 10px solid rgb(0, 5, 75);
-    margin-left: 20px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }
 p{
-    margin-top: 100px;
     text-align: center;
-    font-size: 2em;
+    
+     font-size: 2em;
+
+    margin-top: 100px;    
 }
