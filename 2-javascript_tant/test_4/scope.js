@@ -1,7 +1,10 @@
+let student;
+
 if (1 > 0) {
-    var student = 'Tom';
+    student = 'Tom';
     console.log(student);
 }
 
-student = 'Alex';
-console.log(student);4
+// student = 'Alex';
+// hidden "var"
+console.log(student);
